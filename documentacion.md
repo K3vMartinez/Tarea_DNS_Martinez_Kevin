@@ -40,9 +40,7 @@ sudo systemctl status bind9
 
 ![instalacion bind](./imagenes/img05.png)
 
-// NO REALIZAR EL PASO 4
-
-4. Con los siguientes comandos lo activaremos para que se inicie al arrancar el servidor y lo iniciaremos:
+4. (NO REALIZAR) Con los siguientes comandos lo activaremos para que se inicie al arrancar el servidor y lo iniciaremos:
 ```bash
 sudo systemctl enable bind9
 sudo systemctl start bind9
